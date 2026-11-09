@@ -1,0 +1,7 @@
+version = 1
+
+# Default licensing for every file. A file with its own SPDX header takes precedence.
+[[annotations]]
+path = "**"
+SPDX-FileCopyrightText = "2026 Ishaan Sharma"
+SPDX-License-Identifier = "MIT"
